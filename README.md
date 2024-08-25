@@ -1,8 +1,3 @@
-
-<!--
-**Yuxuan-Wen/Yuxuan-Wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 👋 Hello, Welcome to my GitHub Profile
 I am Yuxuan Wen, a bachelor's student majoring in Electrical Engineering
 
