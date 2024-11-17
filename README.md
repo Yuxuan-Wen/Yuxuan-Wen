@@ -1,5 +1,5 @@
 ## 👋 Hello, Welcome to my GitHub Profile
-I am currently seeking/actively applying for a PhD position starting in Fall 2025.
+I am currently actively seeking/applying for a PhD position starting in Fall 2025.
 
 ## 🎓 Education and Affiliation
 B.Eng in Electrical Engineering – Chongqing University, China, [2020-2025]  
